@@ -6,3 +6,4 @@ Build/
 *.sdf
 *.sln
 *.suo
+!Plugins/UE4GitPlugin-0.6.2-beta/Binaries
