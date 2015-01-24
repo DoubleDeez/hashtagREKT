@@ -1,7 +1,6 @@
 Binaries/
 Intermediate/
 Saved/
-Build/
 *.opensdf
 *.sdf
 *.sln
