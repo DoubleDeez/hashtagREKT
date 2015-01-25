@@ -6,7 +6,7 @@ public class GameJam2015 : ModuleRules
 {
 	public GameJam2015(TargetInfo Target)
 	{
-        PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "UMG", "Slate", "SlateCore" });
+        PublicDependencyModuleNames.AddRange(new string[] { "Core", "CoreUObject", "Engine", "InputCore", "UMG", "Slate", "SlateCore", "Sockets" });
 
 		PrivateDependencyModuleNames.AddRange(new string[] {  });
 

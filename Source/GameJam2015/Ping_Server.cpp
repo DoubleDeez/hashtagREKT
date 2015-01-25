@@ -9,6 +9,4 @@ UPing_Server::UPing_Server(const FObjectInitializer& ObjectInitializer) : Super(
 }
 
 bool UPing_Server::ping_server(FString ipAddress) {
-	return false;
-
-}
+	return false;}
